@@ -1,109 +1,170 @@
 <div align="center">
 
-# Hi there, I'm Mayank 👋
+# Mayank
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Developer;Full-Stack+Builder;SwiftUI+%7C+React+%7C+Python;Always+Learning+Something+New" alt="Typing SVG" />
+### Frontend Developer • UI/UX Enthusiast • Mobile App Developer
 
-<img src="https://komarev.com/ghpvc/?username=055Mayank&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
+Building clean, responsive, and user-focused digital experiences across Web, Android, and iOS.
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Focused+Builder;React+%7C+SwiftUI+%7C+Mobile+Apps;Designing+Experiences+That+Feel+Natural" />
 
 </div>
 
-## 💫 About Me
+---
 
-I'm a Computer Science student passionate about building practical software products across web, mobile, and systems development.
+# About Me
 
-- 🔭 Currently building **DevBoard** — a developer productivity workspace
-- 📱 Exploring native iOS development with **SwiftUI**
-- 🌱 Learning software architecture, system design, and scalable applications
-- 🐧 Interested in Linux, open source software, and developer tooling
-- 🧠 Exploring computer vision and applied machine learning
-- ⚡ I enjoy turning ideas into working products
+I enjoy building interfaces that are fast, intuitive, and visually polished.
 
-## 🛠️ Tech Stack & Tools
+My primary focus is creating:
 
-<div align="center">
+- Modern Frontend Applications
+- Mobile Apps for iOS & Android
+- Responsive UI Systems
+- Design-Driven User Experiences
+- Developer Productivity Tools
 
-### Languages
+Currently working on improving my skills in:
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,typescript,swift" />
+- React & TypeScript
+- SwiftUI
+- Mobile App Architecture
+- Design Systems
+- Product Thinking
 
-### Frontend & Mobile
+---
 
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,swift" />
+# Tech Stack
 
-### Backend & Database
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=firebase" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,vite" />
+</p>
+
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=swift,firebase" />
+</p>
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp" />
+</p>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
-</div>
+---
 
-## 🚀 Featured Projects
+# Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| **DevBoard** | Developer productivity dashboard combining projects, Kanban boards, notes, analytics, and workflow management. | React, TypeScript, Vite |
-| **SwiftWeather+** | Native iOS weather and outdoor activity planner featuring forecasts, recommendations, location management, and offline support. | Swift, SwiftUI, MVVM |
-| **Smart Expense Tracker** | Java-based expense management application with both CLI and Swing GUI interfaces. | Java, Swing |
-| **Color Object Detection** | Real-time object detection system using HSV color segmentation and OpenCV. | Python, OpenCV |
-| **Linux & Open Source Software** | Research and practical implementation of Git workflows, GPL licensing, Linux utilities, and shell scripting. | Linux, Git, Bash |
+## 🚀 DevBoard
 
+Developer productivity dashboard focused on:
 
+- Project Management
+- Kanban Workflows
+- Technical Notes
+- Analytics Dashboard
+- Clean UI Architecture
 
-## 📈 Current Focus
+**Tech:** React • TypeScript • Vite
 
-Frontend Development      ████████████████████
-Mobile Development        ██████████████████
-Developer Tools           ███████████████████
-System Design             ████████████████
-Computer Vision           ██████████████
-Linux & Open Source       █████████████████
+---
 
+## 📱 SwiftWeather+
 
+A modern iOS weather experience featuring:
 
-## 📊 GitHub Analytics
+- Weather Forecasts
+- Outdoor Activity Recommendations
+- Location Management
+- Offline Support
+- SwiftUI Architecture
+
+**Tech:** Swift • SwiftUI • MVVM
+
+---
+
+## 💰 Smart Expense Tracker
+
+Expense management application supporting:
+
+- Budget Tracking
+- Expense Categories
+- CLI Interface
+- Desktop GUI
+
+**Tech:** Java • Swing
+
+---
+
+## 🎯 Color Object Detection
+
+Computer vision project capable of:
+
+- Real-time Object Tracking
+- Color Segmentation
+- Webcam Processing
+
+**Tech:** Python • OpenCV
+
+---
+
+# Design Philosophy
+
+```text
+Simple > Complex
+Fast > Heavy
+Usable > Fancy
+Consistent > Trendy
+Accessible > Exclusive
+```
+
+---
+
+# Currently Learning
+
+- Advanced React Patterns
+- SwiftUI Animations
+- Mobile Design Systems
+- Product Design Fundamentals
+- Scalable Frontend Architecture
+
+---
+
+# GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=055Mayank&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=055Mayank&show_icons=true&theme=transparent&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=055Mayank&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=055Mayank&theme=github-dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=055Mayank&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
+---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/055Mayank/055Mayank/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-## 🤝 Connect With Me
+# Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/055Mayank">
-<img src="https://skillicons.dev/icons?i=github" />
+GitHub
 </a>
 
 </div>
 
+---
 
 <div align="center">
 
-### Build • Learn • Iterate
+### Crafting clean interfaces and meaningful user experiences.
 
 </div>
