@@ -1,145 +1,185 @@
 <div align="center">
 
-# Mayank
+# 👋 Hey, I'm Mayank
 
-### Frontend Developer • UI/UX Enthusiast • Mobile App Developer
+### Frontend Developer • UI/UX Designer • Mobile App Builder
 
-Building clean, responsive, and user-focused digital experiences across Web, Android, and iOS.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&center=true&vCenter=true&width=800&lines=Designing+Modern+Digital+Experiences;Building+Web+%26+Mobile+Applications;React+%7C+SwiftUI+%7C+TypeScript;Frontend+Developer+with+a+Product+Mindset" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Focused+Builder;React+%7C+SwiftUI+%7C+Mobile+Apps;Designing+Experiences+That+Feel+Natural" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,typescript,swift,firebase,java,python,git,github" />
 
 </div>
 
 ---
 
-# About Me
+## ✨ About Me
 
-I enjoy building interfaces that are fast, intuitive, and visually polished.
+I build products where **design and engineering work together**.
 
-My primary focus is creating:
+My focus is creating:
 
-- Modern Frontend Applications
-- Mobile Apps for iOS & Android
-- Responsive UI Systems
-- Design-Driven User Experiences
-- Developer Productivity Tools
+🎨 Clean UI/UX
 
-Currently working on improving my skills in:
+📱 Mobile-first experiences
 
-- React & TypeScript
-- SwiftUI
-- Mobile App Architecture
-- Design Systems
-- Product Thinking
+⚡ Fast and responsive interfaces
+
+🧩 Scalable frontend architectures
+
+🚀 Products users actually enjoy using
 
 ---
 
-# Tech Stack
+## 🛠 Tech Stack
 
-### Frontend
+<details open>
+<summary><b>Frontend Development</b></summary>
 
-<p>
+<br>
+
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,vite" />
-</p>
 
-### Mobile Development
+</details>
 
-<p>
+<details>
+<summary><b>Mobile Development</b></summary>
+
+<br>
+
 <img src="https://skillicons.dev/icons?i=swift,firebase" />
-</p>
 
-### Programming
+</details>
 
-<p>
+<details>
+<summary><b>Programming Languages</b></summary>
+
+<br>
+
 <img src="https://skillicons.dev/icons?i=java,python,cpp" />
-</p>
 
-### Tools
+</details>
 
-<p>
+<details>
+<summary><b>Tools</b></summary>
+
+<br>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+
+</details>
 
 ---
 
-# Featured Projects
+# 🚀 Selected Work
 
-## 🚀 DevBoard
+### DevBoard
 
-Developer productivity dashboard focused on:
+A developer productivity workspace designed to centralize project execution and workflow management.
+
+**Highlights**
 
 - Project Management
-- Kanban Workflows
+- Kanban Boards
 - Technical Notes
 - Analytics Dashboard
-- Clean UI Architecture
+- Clean Information Architecture
 
-**Tech:** React • TypeScript • Vite
+**Stack**
+
+`React` `TypeScript` `Vite`
+
+🔗 Repository: https://github.com/055Mayank/devboard
 
 ---
 
-## 📱 SwiftWeather+
+### SwiftWeather+
 
-A modern iOS weather experience featuring:
+A modern iOS weather application focused on usability and outdoor activity planning.
 
-- Weather Forecasts
-- Outdoor Activity Recommendations
+**Highlights**
+
+- Weather Forecasting
+- Activity Recommendations
 - Location Management
 - Offline Support
-- SwiftUI Architecture
+- Native SwiftUI Experience
 
-**Tech:** Swift • SwiftUI • MVVM
+**Stack**
+
+`Swift` `SwiftUI` `MVVM`
+
+🔗 Repository: https://github.com/055Mayank/swiftweather-plan
 
 ---
 
-## 💰 Smart Expense Tracker
+### Smart Expense Tracker
 
-Expense management application supporting:
+A budgeting and expense-management solution featuring both command-line and desktop interfaces.
 
+**Highlights**
+
+- Expense Categorization
 - Budget Tracking
-- Expense Categories
-- CLI Interface
+- Transaction History
 - Desktop GUI
 
-**Tech:** Java • Swing
+**Stack**
+
+`Java` `Swing`
 
 ---
 
-## 🎯 Color Object Detection
+### Color Object Detection
 
-Computer vision project capable of:
+A computer vision application for real-time object tracking using color segmentation.
 
-- Real-time Object Tracking
-- Color Segmentation
-- Webcam Processing
+**Highlights**
 
-**Tech:** Python • OpenCV
+- Live Webcam Processing
+- HSV Color Detection
+- Object Tracking
+- Contour Recognition
+
+**Stack**
+
+`Python` `OpenCV`
 
 ---
 
-# Design Philosophy
+<td width="50%">
+
+### Preview
+
+```html
+<img src="./assets/swiftweather-preview.png" />
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🎯 Design Principles
 
 ```text
-Simple > Complex
-Fast > Heavy
-Usable > Fancy
-Consistent > Trendy
-Accessible > Exclusive
+User First
+ ↓
+Simple Interactions
+ ↓
+Clean Visual Hierarchy
+ ↓
+Fast Performance
+ ↓
+Delightful Experience
 ```
 
 ---
 
-# Currently Learning
-
-- Advanced React Patterns
-- SwiftUI Animations
-- Mobile Design Systems
-- Product Design Fundamentals
-- Scalable Frontend Architecture
-
----
-
-# GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -151,12 +191,22 @@ Accessible > Exclusive
 
 ---
 
-# Let's Connect
+## 🌱 Currently Learning
+
+- Advanced React Patterns
+- SwiftUI Animations
+- Design Systems
+- Product Design
+- Mobile Architecture
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/055Mayank">
-GitHub
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </div>
@@ -165,6 +215,6 @@ GitHub
 
 <div align="center">
 
-### Crafting clean interfaces and meaningful user experiences.
+### Building products that feel as good as they look.
 
 </div>
