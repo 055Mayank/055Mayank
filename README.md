@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 💫 About Me
 
 I'm a Computer Science student passionate about building practical software products across web, mobile, and systems development.
@@ -20,8 +18,6 @@ I'm a Computer Science student passionate about building practical software prod
 - 🐧 Interested in Linux, open source software, and developer tooling
 - 🧠 Exploring computer vision and applied machine learning
 - ⚡ I enjoy turning ideas into working products
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -45,8 +41,6 @@ I'm a Computer Science student passionate about building practical software prod
 
 </div>
 
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -57,22 +51,18 @@ I'm a Computer Science student passionate about building practical software prod
 | **Color Object Detection** | Real-time object detection system using HSV color segmentation and OpenCV. | Python, OpenCV |
 | **Linux & Open Source Software** | Research and practical implementation of Git workflows, GPL licensing, Linux utilities, and shell scripting. | Linux, Git, Bash |
 
----
+
 
 ## 📈 Current Focus
 
-```text
 Frontend Development      ████████████████████
 Mobile Development        ██████████████████
 Developer Tools           ███████████████████
 System Design             ████████████████
 Computer Vision           ██████████████
 Linux & Open Source       █████████████████
-```
 
----
 
----
 
 ## 📊 GitHub Analytics
 
@@ -92,7 +82,6 @@ Linux & Open Source       █████████████████
 
 </div>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -101,10 +90,6 @@ Linux & Open Source       █████████████████
 <img src="https://raw.githubusercontent.com/055Mayank/055Mayank/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
-
----
-
----
 
 ## 🤝 Connect With Me
 
@@ -116,7 +101,6 @@ Linux & Open Source       █████████████████
 
 </div>
 
----
 
 <div align="center">
 
