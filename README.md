@@ -125,7 +125,7 @@ A SwiftUI application focused on:
 ## 🐍 Contribution Snake
 
 
-html
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/055Mayank/055Mayank/output/github-contribution-grid-snake.svg" />
 </p>
