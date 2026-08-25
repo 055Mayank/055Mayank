@@ -72,6 +72,8 @@ Linux & Open Source       █████████████████
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -82,54 +84,25 @@ Linux & Open Source       █████████████████
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=055Mayank&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=055Mayank&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=055Mayank&theme=github-dark&hide_border=true" />
 
 </div>
-
----
-
-## 📌 What I'm Building
-
-### 🚀 DevBoard
-A modern developer workspace bringing together:
-
-- Project Management
-- Kanban Boards
-- Technical Notes
-- GitHub Integration
-- Productivity Analytics
-
-### 📱 SwiftWeather+
-A SwiftUI application focused on:
-
-- Real-time Weather
-- Outdoor Activity Recommendations
-- Location Management
-- Environmental Insights
-- Offline Caching
 
 ---
 
 ## 🐍 Contribution Snake
 
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/055Mayank/055Mayank/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/055Mayank/055Mayank/output/github-contribution-grid-snake.svg" />
-</p>
+</div>
 
+---
 
 ---
 
